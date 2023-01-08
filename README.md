@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <src="https://blog.hostone.com.br/wp-content/uploads/2019/07/blog-git.jpg">
+  <img src="https://blog.hostone.com.br/wp-content/uploads/2019/07/blog-git.jpg">
 </h1>
 
 De acordo com a documentação do **Conventional Commits**, Commits Semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define  um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
