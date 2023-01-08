@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="image.png">
+  ![image](https://user-images.githubusercontent.com/101647305/211210514-6cda2e95-714d-43ca-8537-87e85083505f.png)
 </h1>
 
 De acordo com a documentação do **Conventional Commits**, Commits Semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define  um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
